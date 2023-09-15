@@ -12,6 +12,8 @@
  * ./modify_qp_simple
  *
  * author: lihao <hooleeucas@163.com>
+ * 
+ * Under Apache License 2.0
  */
 
 #include <stdio.h>

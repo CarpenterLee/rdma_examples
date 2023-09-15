@@ -6,6 +6,8 @@
  * ./query_device
  *
  * author: lihao <hooleeucas@163.com>
+ * 
+ * Under Apache License 2.0
  */
 #include <stdio.h>
 #include <infiniband/verbs.h>
